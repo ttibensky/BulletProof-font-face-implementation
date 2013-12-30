@@ -8,3 +8,8 @@
     font-weight: normal;
     font-style: normal;
 }
+
+h1 {
+  font-family: 'OpenSans';
+  font-weight: 300%;
+}
